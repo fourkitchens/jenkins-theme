@@ -1,0 +1,57 @@
+----------------------------------------------------------
+COLORS
+==========================================================
+
+Dark Gray	= 424242
+Medium Gray	= BCBCBC
+Light Gray	= E9E9E9
+Orange		= FF9900
+Yellow		= CCCB31
+Green		= 53B931
+Blue		= 3299BB
+Dark Blue	= 2484AA
+Light Blue	= 64B4CC
+Red		= B93153
+
+----------------------------------------------------------
+General Font Styles
+==========================================================
+
+color: #424242;
+font-size: 13px/1.5em;
+lineheight: 18px;
+
+-- Breadcrumbs --
+color: #BCBCBC;
+
+-- Table heads or labels --
+font-size: 15px;
+font-weight: bold;
+
+----------------------------------------------------------
+Table Padding Rules
+==========================================================
+
+Main Table (VIEW TABS)
+td OR cell = padding: 8px 10px;
+
+Sidebar Table (BUILD TABS)
+td OR cell = padding: 3px 10px;
+
+table { margin-bottom: 20px; }
+
+----------------------------------------------------------
+Layout padding
+==========================================================
+
+-- Header --
+padding: 10px;
+
+-- Left column --
+padding: 10px;
+
+-- Right column --
+padding: 10px;
+
+-- Footer --
+padding: 20px 10px 50px 10px;
